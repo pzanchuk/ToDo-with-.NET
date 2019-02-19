@@ -5,3 +5,14 @@
 /Users/epicodus_staff/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
 /Users/epicodus_staff/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
 /Users/epicodus_staff/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.deps.json
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.json
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.pdb
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\Pavel\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
